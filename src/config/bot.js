@@ -141,7 +141,7 @@ export const botConfig = {
     },
     footer: {
       // Default footer text used in bot embeds.
-      text: "Titan Bot",
+      text: "NØX ┇ Bot",
       // Footer icon URL (null = no icon).
       icon: null,
     },
@@ -175,7 +175,7 @@ export const botConfig = {
     baseBankCapacity: 100000,
 
     // Daily reward amount.
-    dailyAmount: 100,
+    dailyAmount: 50,
 
     // Work command random payout range.
     workMin: 10,
@@ -194,7 +194,7 @@ export const botConfig = {
     },
 
     // Chance to succeed when robbing (0.4 = 40%).
-    robSuccessRate: 0.4,
+    robSuccessRate: 1.0,
 
     // Jail time after failed rob (milliseconds).
     // 3600000 = 1 hour.
@@ -205,7 +205,7 @@ export const botConfig = {
   // SHOP SETTINGS
   // =========================
   // Add shop defaults here when needed.
-  shop: {
+  shop: {diamond , gold , 
 
   },
 
