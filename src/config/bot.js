@@ -372,13 +372,33 @@ export const botConfig = {
     // Welcome template posted when a user joins.
     // Placeholders: {user}, {server}, {memberCount}
     defaultWelcomeMessage:
-      "Welcome {user} to {server}! We now have {memberCount} members!",
+      "🇨🇿 Vítej na serveru NØX ┇ Comunity! 👋
+
+
+
+Jsme rádi, že ses k nám připojil! 🔥
+📌 Nezapomeň si přečíst <#1435748279647207537>  a vybrat si své <#1541744555747971072> 
+Užij si server a bav se! 🖤
+
+
+
+━━━━━━━━━━━━━━━━━━
+
+
+
+🇬🇧 Welcome to NØX ┇ Comunity! 👋
+
+
+
+We're glad you joined us! 🔥
+📌 Don't forget to read the <#1435748279647207537>  and choose your <#1541744555747971072> 
+Enjoy the server and have fun! 🖤",
     // Goodbye template posted when a user leaves.
     // Placeholders: {user}, {memberCount}
     defaultGoodbyeMessage:
       "{user} has left the server. We now have {memberCount} members.",
     // Channel ID for welcome messages.
-    defaultWelcomeChannel: null,
+    defaultWelcomeChannel: "1435748276816314620",
     // Channel ID for goodbye messages.
     defaultGoodbyeChannel: null,
   },
